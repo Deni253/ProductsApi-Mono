@@ -1,0 +1,14 @@
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\bin\Debug\net8.0\ProductsApi.Service.deps.json
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\bin\Debug\net8.0\ProductsApi.Service.runtimeconfig.json
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\bin\Debug\net8.0\ProductsApi.Service.dll
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\bin\Debug\net8.0\ProductsApi.Service.pdb
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ProductsApi.Service.csproj.AssemblyReference.cache
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ProductsApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ProductsApi.Service.AssemblyInfoInputs.cache
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ProductsApi.Service.AssemblyInfo.cs
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ProductsApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ProductsApi.Service.dll
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\refint\ProductsApi.Service.dll
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ProductsApi.Service.pdb
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ProductsApi.Service.genruntimeconfig.cache
+C:\Users\cukar\source\repos\ProductsApi\ProductsApi.Service\obj\Debug\net8.0\ref\ProductsApi.Service.dll
